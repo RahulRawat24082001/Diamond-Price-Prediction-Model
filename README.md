@@ -16,7 +16,6 @@ Files
 diamond_price_prediction.ipynb: Jupyter Notebook containing the Python code for data preprocessing, model training, evaluation, and prediction.
 diamonds.csv: CSV file containing the dataset used for training and testing the model.
 
-
 Usage
 To run the notebook:
 
